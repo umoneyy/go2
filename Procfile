@@ -1,0 +1,1 @@
+web: gunicorn co2track.wsgi --log-file -
